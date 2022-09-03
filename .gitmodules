@@ -1,0 +1,3 @@
+[submodule "LocalPackages/jukey17games.utilities.pausable"]
+	path = LocalPackages/jukey17games.utilities.pausable
+	url = https://github.com/jukey17/jukey17games.utilities.pausable.git

@@ -162,6 +162,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "jukey17games.utilities.pausable": {
+      "version": "file:../LocalPackages/jukey17games.utilities.pausable",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
