@@ -7,6 +7,14 @@
       "dependencies": {},
       "url": "https://package.openupm.com"
     },
+    "com.jukey17games.utilities.pausable": {
+      "version": "file:../LocalPackages/jukey17games.utilities.pausable",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.cysharp.unitask": "2.3.1"
+      }
+    },
     "com.unity.collab-proxy": {
       "version": "1.17.1",
       "depth": 0,
@@ -161,12 +169,6 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
-    },
-    "jukey17games.utilities.pausable": {
-      "version": "file:../LocalPackages/jukey17games.utilities.pausable",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
